@@ -11,6 +11,10 @@
 Created the back end for an E-Commerce to help post data, update data, and delete data.
 
 
+# deployment 
+https://damp-bayou-26442.herokuapp.com/
+
+
 ## Installation
 git clone & NPM I
 
